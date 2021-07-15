@@ -1,1 +1,2 @@
 New doc in local
+line 1 in local feature1 branch
