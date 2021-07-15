@@ -1,1 +1,2 @@
 New file created 
+editing in the github directly in the feature1 remote branch
