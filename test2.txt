@@ -1,1 +1,2 @@
 new doc created in feature1 local branch
+lin2
